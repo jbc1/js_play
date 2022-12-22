@@ -1,5 +1,3 @@
-// ball animation
-
 // setup canvas
 
 const canvas = document.querySelector('#myCanvas');
