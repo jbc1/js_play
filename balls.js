@@ -13,6 +13,7 @@ function random(min,max) {
   return num;
 }
 
+
 // define Ball constructor
 
 class Ball {
